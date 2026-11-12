@@ -1,0 +1,7 @@
+Name,Age,Course,Grade,EnrolledDate
+Alice,20,Math,85.0,2025-09-01
+Bob,21,Physics,90.5,2025-09-01
+Charlie,22,Computer Science,78.0,2025-09-02
+Alice,20,Math,85.0,2025-09-01
+David,,Chemistry,92.0,2025-09-03
+Eve,23,,88.0,2025-09-03
